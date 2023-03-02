@@ -95,7 +95,7 @@ class Gopay extends StatelessWidget {
                             height: 4,
                           ),
                           Text(
-                            "Rp 50.231",
+                            "Rp. 10.0000",
                             style: bold16.copyWith(color: dark1),
                           ),
                           Text(

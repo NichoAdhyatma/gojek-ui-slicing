@@ -66,6 +66,14 @@ flutter:
     - assets/icons/pay.svg
     - assets/icons/topup.svg
     - assets/icons/explore.svg
+    - assets/icons/gofood.svg
+    - assets/icons/gopulsa.svg
+    - assets/icons/gosend.svg
+    - assets/icons/gocar.svg
+    - assets/icons/goride.svg
+    - assets/icons/other.svg
+    - assets/icons/gomart.svg
+    - assets/icons/dots.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
