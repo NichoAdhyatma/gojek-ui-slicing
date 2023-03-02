@@ -74,6 +74,8 @@ flutter:
     - assets/icons/other.svg
     - assets/icons/gomart.svg
     - assets/icons/dots.svg
+    - assets/icons/star.svg
+    - assets/icons/left.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
