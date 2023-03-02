@@ -35,7 +35,29 @@ class HomePage extends StatelessWidget {
                 right: 20,
                 top: 32,
               ),
-              child: Column(),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Image.asset(
+                    'assets/images/gopaylater.png',
+                    height: 14,
+                  ),
+                  const SizedBox(
+                    height: 8,
+                  ),
+                  Text(
+                    "Lebih gemat pakai gopaylater 🤩",
+                    style: bold16.copyWith(color: dark1),
+                  ),
+                  const SizedBox(
+                    height: 8,
+                  ),
+                  Text(
+                    "Yuk belanja pakai gopaylater, pasti lebih hemat",
+                    style: regular14.copyWith(color: dark2),
+                  ),
+                ],
+              ),
             ),
           ],
         ),
