@@ -60,7 +60,6 @@ flutter:
   # To add assets to your application, add an assets sectionhis:
   assets:
     - assets/icons/search.svg
-    - assets/icons/bike.png
     - assets/icons/goclub.svg
     - assets/images/gopay.png
     - assets/icons/pay.svg
@@ -77,6 +76,9 @@ flutter:
     - assets/icons/star.svg
     - assets/icons/left.svg
     - assets/images/gopaylater.png
+    - assets/images/3.png
+    - assets/images/2.png
+    - assets/images/1.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

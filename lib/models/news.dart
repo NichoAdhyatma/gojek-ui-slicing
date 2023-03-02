@@ -3,5 +3,9 @@ class News {
   final String desc;
   final String image;
 
-  News(this.title, this.desc, this.image);
+  News(
+    this.image,
+    this.title,
+    this.desc,
+  );
 }

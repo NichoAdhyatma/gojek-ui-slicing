@@ -14,8 +14,10 @@ class MenuIcon extends StatelessWidget {
         right: 27,
         top: 32,
       ),
-      child: SizedBox(
-        height: 157,
+      child: ConstrainedBox(
+        constraints: const BoxConstraints.expand(
+          height: 157,
+        ),
         child: GridView.count(
           crossAxisCount: 4,
           mainAxisSpacing: 2,
