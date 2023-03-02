@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:gojek/theme.dart';
 
-class ExperienceProgress extends StatelessWidget {
-  const ExperienceProgress({super.key});
+class GoClub extends StatelessWidget {
+  const GoClub({super.key});
 
   @override
   Widget build(BuildContext context) {
